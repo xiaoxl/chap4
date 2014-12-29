@@ -4,4 +4,6 @@
 public class chap4 {
     int i=1;
 
+    i=i+1;
+
 }
