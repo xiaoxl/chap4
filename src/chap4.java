@@ -4,6 +4,11 @@
 public class chap4 {
     int i=1;
 
-    i=i+1;
+
+    int hoho(){
+        System.out.println(i+i);
+
+        return i;
+    }
 
 }
